@@ -6,7 +6,7 @@
 
 In this repository there are practical projects, technical examples and tests related to the training of students in the Cybersecurity Management major in the Department of National and Regional Security.
 
-Lecturer in the specialty of economic aspects of cyber security - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🧑‍🏫🚀
+Lecturer in the specialty of "Economic aspects of cyber security" - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🧑‍🏫🚀
 
 The Department of National and Regional Security / Masters - **[https://dnrs.bg/en/masters/](https://dnrs.bg)** 📊   
  
