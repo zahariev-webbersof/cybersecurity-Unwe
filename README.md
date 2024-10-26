@@ -4,7 +4,9 @@
     <img width="200" src="https://dnrs.bg/wp-content/uploads/2024/04/light_cropped-320x270.png" alt="Material Bread logo">
 </p>
 
-In this repository there are practical projects, technical examples and tests related to the training of students in the Cybersecurity Management major in the Department of National and Regional Security.
+In this repository there are practical projects, technical examples and tests related to the training of students in the Cybersecurity Management major in the Department of National and Regional Security
+
+Head of specialtypecialty of "Economic aspects of cyber security" - **[Noncho Dimitrov](https://www.linkedin.com/in/noncho-dimitrov-51bb6630b/?originalSubdomain=bg)** 🧑‍🏫🚀
 
 Lecturer in the specialty of "Economic aspects of cyber security" - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🧑‍🏫🚀
 
