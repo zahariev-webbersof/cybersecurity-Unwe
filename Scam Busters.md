@@ -77,7 +77,7 @@
 4. [Krebs on Security - Scams and Frauds](https://krebsonsecurity.com/category/scams/)
    - Блог на известния журналист по киберсигурност Брайън Кребс, където се анализират новини и инциденти свързани с онлайн измами и киберсигурност.
 
-5. [Norton - Understanding Phishing](https://us.norton.com/internetsecurity/online-scams/what-is-phishing.html)
+5. [Norton - Understanding Phishing](https://us.norton.com/blog/online-scams/spear-phishing)
    - Ресурс от Norton, който обяснява какво е фишинг, различните му форми и как да се предпазите от него. 
 
 Тези линкове ще предоставят на студентите допълнителна информация и контекст за проектите им, свързани с онлайн измами и киберсигурност.
