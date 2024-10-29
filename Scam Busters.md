@@ -1,6 +1,6 @@
 ### Проект: 🕵️‍♀️ Scam Busters 🚨
 
-![growtika-3C0SWyusdS8-unsplash](https://github.com/user-attachments/assets/34de490a-b3aa-4e8d-b7d3-2f839e5fe4e3)
+![lewis-kang-ethe-ngugi-f5pTwLHCsAg-unsplash](https://github.com/user-attachments/assets/b1fccd21-83a3-49f6-9a17-19e5fcb6e7ba)
 
 
 #### Преглед
