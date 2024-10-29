@@ -74,7 +74,7 @@
 3. [Federal Trade Commission (FTC) - Consumer Information on Scams](https://www.consumer.ftc.gov/articles/what-know-about-scams)
    - Сайт на FTC с полезна информация за потребителите относно измамите, включително как да ги разпознават и как да се защитят.
 
-4. [Krebs on Security - Scams and Frauds](https://krebsonsecurity.com/category/scams/)
+4. [Krebs on Security - Scams and Frauds](https://krebsonsecurity.com)
    - Блог на известния журналист по киберсигурност Брайън Кребс, където се анализират новини и инциденти свързани с онлайн измами и киберсигурност.
 
 5. [Norton - Understanding Phishing](https://us.norton.com/blog/online-scams/spear-phishing)
