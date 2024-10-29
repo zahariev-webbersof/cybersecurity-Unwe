@@ -68,7 +68,7 @@
 1. [Статия в Harvard Gazette за онлайн измами](https://news.harvard.edu/gazette/story/2024/09/youd-never-fall-for-an-online-scam-right/)
    - Статията разглежда как онлайн измамите се възползват от човешката психология и предизвиква размисли относно сигурността в интернет.
 
-2. [Cybersecurity & Infrastructure Security Agency (CISA) - Online Scams](https://www.cisa.gov/stopthinkconnect/online-scams)
+2. [Cybersecurity & Infrastructure Security Agency (CISA) - Online Scams](https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks)
    - Ресурс от CISA, който предоставя информация за различни видове онлайн измами и съвети за защита.
 
 3. [Federal Trade Commission (FTC) - Consumer Information on Scams](https://www.consumer.ftc.gov/articles/what-know-about-scams)
