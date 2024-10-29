@@ -13,7 +13,8 @@ Lecturer in the specialty of "Economic aspects of cyber security" - **[Mario Zah
 The Department of National and Regional Security / Masters - **[https://dnrs.bg/en/masters/](https://dnrs.bg)** 📊   
 
 ## 🛠 Pre-reading:
-➡ [✅ PSYCHOLOGY OF PASSWORDS - Next lecture 02.11.2024 ✅](https://www.lastpass.com/-/media/bcebf5dd3d7f4ddb8ad0445d74ea9372.pdf)
+➡ [**✅ PSYCHOLOGY OF PASSWORDS - Next lecture 02.11.2024 ✅**](https://www.lastpass.com/-/media/bcebf5dd3d7f4ddb8ad0445d74ea9372.pdf)
+<br><br/>
 
 ## 🗂 Theory Тests: 
 ➡ [**Coming up 🕒**]()
@@ -21,6 +22,8 @@ The Department of National and Regional Security / Masters - **[https://dnrs.bg/
  
 ## ⚙️ Practical Tasks:  
 ➡ [**SecureMart Simulation**](https://github.com/zahariev-webbersof/cybersecurity-Unwe/blob/main/SecureMart%20simulation.md)
+
+➡ [**Scam Busters**](https://github.com/zahariev-webbersof/cybersecurity-Unwe/blob/main/Scam%20Busters.md)
 <br><br/>
 
 ## 📚 **Cybersecurity Resources**
