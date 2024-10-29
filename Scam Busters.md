@@ -71,13 +71,8 @@
 2. [Cybersecurity & Infrastructure Security Agency (CISA) - Online Scams](https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks)
    - Ресурс от CISA, който предоставя информация за различни видове онлайн измами и съвети за защита.
 
-3. [Federal Trade Commission (FTC) - Consumer Information on Scams](https://www.consumer.ftc.gov/articles/what-know-about-scams)
-   - Сайт на FTC с полезна информация за потребителите относно измамите, включително как да ги разпознават и как да се защитят.
-
-4. [Krebs on Security - Scams and Frauds](https://krebsonsecurity.com)
+3. [Krebs on Security - Scams and Frauds](https://krebsonsecurity.com)
    - Блог на известния журналист по киберсигурност Брайън Кребс, където се анализират новини и инциденти свързани с онлайн измами и киберсигурност.
 
-5. [Norton - Understanding Phishing](https://us.norton.com/blog/online-scams/spear-phishing)
+4. [Norton - Understanding Phishing](https://us.norton.com/blog/online-scams/spear-phishing)
    - Ресурс от Norton, който обяснява какво е фишинг, различните му форми и как да се предпазите от него. 
-
-Тези линкове ще предоставят на студентите допълнителна информация и контекст за проектите им, свързани с онлайн измами и киберсигурност.
