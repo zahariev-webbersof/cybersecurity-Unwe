@@ -115,7 +115,7 @@ These certifications offer valuable skills and are recognized across industries,
 
 ---
 
-📈 **Phase 4: Advanced Specialization (12-18 Months)**  
+📈 **Phase 4: Advanced Specialization (12-16 Months)**  
    - **Goal:** Build expertise in a specific area within cybersecurity.
    - **Steps:**
      - 🔧 **Specialize:** Decide which field interests you (e.g., SOC Analyst, Penetration Tester, Cloud Security, Digital Forensics).
@@ -128,7 +128,7 @@ These certifications offer valuable skills and are recognized across industries,
 
 ---
 
-📝 **Phase 5: Building a Professional Profile (18-24 Months)**  
+📝 **Phase 5: Building a Professional Profile (16-20 Months)**  
    - **Goal:** Prepare for the job market with a strong resume and networking strategy.
    - **Steps:**
      - 👥 **Network:** Connect with professionals on LinkedIn, attend cybersecurity conferences, and join online communities.
