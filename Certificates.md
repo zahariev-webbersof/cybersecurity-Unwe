@@ -97,6 +97,7 @@ These certifications offer valuable skills and are recognized across industries,
 
    - **Recommended Resources:**
      - 📘 **Certifications:** CompTIA Security+, which covers core cybersecurity concepts and practices.
+     - 📘 **Certifications:** Python programing language 
      - 💻 **Platforms:** TryHackMe, Hack The Box for beginner labs and scenarios.
 
 ---
