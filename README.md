@@ -11,7 +11,7 @@ Head of specialtypecialty of "Economic aspects of cyber security" - **[Noncho Di
 Lecturer in the specialty of "Economic aspects of cyber security" - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🧑‍🏫🚀
 
 The Department of National and Regional Security / Masters - **[https://dnrs.bg/en/masters/](https://dnrs.bg)** 📊   
-
+ 
 ## 🛠 Pre-reading:
 ➡ [**✅ PSYCHOLOGY OF PASSWORDS - Next lecture 02.11.2024 ✅**](https://www.lastpass.com/-/media/bcebf5dd3d7f4ddb8ad0445d74ea9372.pdf)
 <br><br/>
