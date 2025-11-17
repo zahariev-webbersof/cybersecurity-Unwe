@@ -16,7 +16,7 @@ The Department of National and Regional Security / Masters - **[https://dnrs.bg/
 ➡ [**✅ PSYCHOLOGY OF PASSWORDS - Next lecture 02.11.2024 ✅**](https://www.lastpass.com/-/media/bcebf5dd3d7f4ddb8ad0445d74ea9372.pdf)
 <br><br/>
 
-## 🗂 Theory Тests: 
+## 🗂 Theory Тests:  
 ➡ [**Coming up 🕒**]()
 <br><br/>
  
